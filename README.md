@@ -1,6 +1,6 @@
 daftar-biodata-siswa
 ==
-Daftar biodata siswa Dicoding Academy
+Daftar biodata siswa MA Mazro'atul Huda Wonorenggo
 --
 *Berikut adalah biodata siswa terdiri yang dari 3 angkatan.*
 - Angkatan 2019
